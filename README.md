@@ -17,4 +17,4 @@ Retail Banking, Wealth Management, and E-commerce domain knowledge • Cloud nat
 
 ## <span style="color: #ff9900;">Contact Me</span>
 
-If you'd like to get in touch, feel free to reach out to me at <span style="color: #007acc;">ashani.basu@hotmail.com</span>. You can also find me on <span style="color: #cc33ff;">[[Your Social Media Links]](https://www.linkedin.com/in/ashani-basu-b647a214/)</span>. I'm always open to connecting and engaging in meaningful conversations!
+If you'd like to get in touch, feel free to reach out to me at <span style="color: #007acc;">ashani.basu@hotmail.com</span>. You can also find me on <span style="color: #cc33ff;">[Linledin](https://www.linkedin.com/in/ashani-basu-b647a214/)</span>. I'm always open to connecting and engaging in meaningful conversations!
