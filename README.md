@@ -5,7 +5,7 @@ Hello! 👋 My name is <span style="color: #007acc;">Ashani Basu</span>, and I'm
 
 ## <span style="color: #ff9900;">Background</span>
 
-A solutions architect specializing in modernization projects for the Banking and Retail sectors. Having total experience of 18 years. Successful track record of designing and executing development and digital migration projects over 9 years. Adept at gathering requirements, managing projects, and delivering high-quality solutions. Currently working at DXC Technology in India with international experience in the USA, Singapore, Australia, and Belgium. Strong focus on compliance, security, and delivering innovative solutions. Proven ability to lead cross-functional teams, meet deadlines, and exceed client expectations. Passionate about driving digital transformation and staying at the forefront of technology trends. Student of data science.
+A solutions architect specializing in modernization projects for the Banking and Retail sectors. Having total experience of 18 years. Successful track record of designing and executing development and digital migration projects over 9 years. Adept at gathering requirements, managing projects, and delivering high-quality solutions. Currently working at Accenture in India with international experience in the USA, Singapore, Australia, and Belgium. Strong focus on compliance, security, and delivering innovative solutions. Proven ability to lead cross-functional teams, meet deadlines, and exceed client expectations. Passionate about driving digital transformation and staying at the forefront of technology trends. Student of data science.
 
 ## <span style="color: #ff9900;">Educational</span>
 
